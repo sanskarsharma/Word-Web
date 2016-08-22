@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wordjungle"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logosamne1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+ 
+        </activity>
+        <activity
+            android:name=".First_level"
+            android:label="@string/title_activity_first_level" >
+        </activity>
+        <activity
+            android:name=".Second_level"
+            android:label="@string/title_activity_second_level" >
+        </activity>
+        <activity
+            android:name=".Third_level"
+            android:label="@string/title_activity_third_level" >
+        </activity>
+        <activity
+            android:name=".Fourth_level"
+            android:label="@string/title_activity_fourth_level" >
+        </activity>
+        <activity
+            android:name=".Fifth_level"
+            android:label="@string/title_activity_fifth_level" >
+        </activity>
+        <activity
+            android:name=".Score"
+            android:label="@string/title_activity_score" >
+        </activity>
+        <activity
+            android:name=".Instructions"
+            android:label="@string/title_activity_settings" >
+        </activity>
+        <activity
+            android:name=".Aboutus"
+            android:label="@string/title_activity_aboutus" >
+        </activity>
+        <activity
+            android:name=".Space"
+            android:label="@string/title_activity_space" >
+        </activity>
+        <activity
+            android:name=".Sixth_level"
+            android:label="@string/title_activity_sixth_level" >
+        </activity>
+        <activity
+            android:name=".LevelsToPlay"
+            android:label="@string/title_activity_levels_to_play" 
+            android:launchMode="singleInstance">
+        </activity>
+        <activity
+            android:name=".Seventh_level"
+            android:label="@string/title_activity_seventh_level" >
+        </activity>
+        <activity
+            android:name=".Eighth_level"
+            android:label="@string/title_activity_eighth_level" >
+        </activity>
+        <activity
+            android:name=".Ninth_level"
+            android:label="@string/title_activity_ninth_level" >
+        </activity>
+        <activity
+            android:name=".Second2"
+            android:label="@string/title_activity_second2" >
+        </activity>
+        <activity
+            android:name=".Third2"
+            android:label="@string/title_activity_third2" >
+        </activity>
+        <activity
+            android:name=".Fourth2"
+            android:label="@string/title_activity_fourth2" >
+        </activity>
+        <activity
+            android:name=".Fifth2"
+            android:label="@string/title_activity_fifth2" >
+        </activity>
+        <activity
+            android:name=".Sixth2"
+            android:label="@string/title_activity_sixth2" >
+        </activity>
+        <activity
+            android:name=".Seventh2"
+            android:label="@string/title_activity_seventh2" >
+        </activity>
+        <activity
+            android:name=".Eighth2"
+            android:label="@string/title_activity_eighth2" >
+        </activity>
+        <activity
+            android:name=".Ninth2"
+            android:label="@string/title_activity_ninth2" >
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="@string/title_activity_about_us" >
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash" 
+            android:noHistory="true">
+                       <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

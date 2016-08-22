@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Web</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first_level">First_level</string>
+    <string name="title_activity_second_level">Second_level</string>
+    <string name="title_activity_third_level">Third_level</string>
+    <string name="title_activity_fourth_level">Fourth_level</string>
+    <string name="title_activity_fifth_level">Fifth_level</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="title_activity_space">Space</string>
+    <string name="title_activity_sixth_level">Sixth_level</string>
+    <string name="title_activity_levels_to_play">LevelsToPlay</string>
+    <string name="title_activity_seventh_level">Seventh_level</string>
+    <string name="title_activity_eighth_level">Eighth_level</string>
+    <string name="title_activity_ninth_level">Ninth_level</string>
+    <string name="title_activity_second2">Second2</string>
+    <string name="title_activity_third2">Third2</string>
+    <string name="title_activity_fourth2">Fourth2</string>
+    <string name="title_activity_fifth2">Fifth2</string>
+    <string name="title_activity_sixth2">Sixth2</string>
+    <string name="title_activity_seventh2">Seventh2</string>
+    <string name="title_activity_eighth2">Eighth2</string>
+    <string name="title_activity_ninth2">Ninth2</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_splash">WordWeb</string>
+
+</resources>
